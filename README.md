@@ -15,7 +15,7 @@ Adivinhe a palavra secreta antes de esgotar as 6 tentativas, inserindo letras ou
 
 <h2>Professor Responsável</h2>
 
-Projeto desenvolvido sob orientação do Prof. André.
+Projeto desenvolvido sob orientação do Prof. André Marcos da Silva
 
 <h2>Instituição</h2>
 
